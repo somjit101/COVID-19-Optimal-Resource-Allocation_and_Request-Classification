@@ -17,8 +17,20 @@ A solution developed to map essential COVID-19 Relief resources to the needy acr
    * Quantity of Transfer
    * Cost of Transfer
 
-   This boils down to a LP (Linear Programming) problem and can be posed in the standard form. 
+   *This boils down to a LP (Linear Programming) problem and can be posed in the standard form.* 
 
 2. __Automatic SOS Text Classification__
 
-  Test Text again
+  During the COVID-19 pandemic, the end-users are given a free-text field to write and submit their grievances, medical emergencies and relief requests to the state government. This data is collected, pre-processed and each request is classified to one or more of the following configurable categories :
+  * Travel
+  * Food
+  * Medical
+  * Donations
+  * Others etc.
+
+   This classified list of citizen SOS requests lets the government authorities re-route the requests to the relevant departments to address them with minimal response time. 
+   
+   *Here, we use state-of-the-art NLP, Sequence encoding and Deep Learning Techniques to achieve the fucntionality*
+   
+   
+  
