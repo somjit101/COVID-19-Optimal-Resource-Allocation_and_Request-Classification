@@ -33,4 +33,7 @@ A solution developed to map essential COVID-19 Relief resources to the needy acr
    *Here, we use state-of-the-art NLP, Sequence encoding and Deep Learning Techniques to achieve the fucntionality*
    
    
+##### This Solution was developed and demonstrated to the Dept. of Rural Department and Panchayat Raj, Government of Karnataka, India to be implemented in and around the city of Bengaluru, India.
+   
+   
   
