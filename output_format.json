@@ -1,0 +1,28 @@
+{
+    "nodes":[
+        {
+        "id": 1,
+        "name": "dummy1",
+        "lat": 14.57,
+        "long": 87.98
+        },
+        {
+        "id": 2,
+        "name": "dummy2",
+        "lat": 14.59,
+        "long": 89.98
+        }
+    ],
+    "items":[
+        {
+        "source": 1, //node_id
+        "target": 2,
+        "qty": 500
+        },
+        {
+        "source": 1,
+        "target": 2,
+        "qty": 500
+        }
+    ]
+}

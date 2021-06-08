@@ -1,0 +1,5 @@
+applications:
+- name: COVID_resource_allocation
+  memory: 128M
+  command: python resource_allocation.py
+  buildpack: https://github.com/cloudfoundry/buildpack-python.git
