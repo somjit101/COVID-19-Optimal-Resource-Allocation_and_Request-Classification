@@ -4,6 +4,7 @@ A solution developed to map essential COVID-19 Relief resources to the needy acr
 
 ## Capabilities
 1. __Optimal Resource allocation__
+    * testing 
 
   This functionality was designed to ingest dataset provided by the government containing the following data :
     * Available COVID-19 sanitary resources like - Hand sanitizers, Face masks, Gloves, Face Shields etc.
