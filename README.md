@@ -4,7 +4,7 @@ A solution developed to map essential COVID-19 Relief resources to the needy acr
 
 ## Capabilities
 1. __Optimal Resource allocation : --__
-   This functionality was designed to ingest dataset provided by the government containing the following data
+   This functionality was designed to ingest dataset provided by the government containing the following data :
     * testing 
 
   This functionality was designed to ingest dataset provided by the government containing the following data :
