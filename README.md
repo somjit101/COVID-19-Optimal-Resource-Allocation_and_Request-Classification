@@ -3,6 +3,10 @@ A solution developed to map essential COVID-19 Relief resources to the needy acr
 
 
 ## Capabilities
-* Optimal Resource allocation
+* __Optimal Resource allocation__
 
-* Automatic SOS Text Classification
+  Test Text
+
+* __Automatic SOS Text Classification__
+
+  Test Text again
